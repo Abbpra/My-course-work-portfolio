@@ -33,3 +33,26 @@ This course focuses on the knowledge required to operate a security program with
 CYBR 309
 Database Security
 The major focus of this course will be the relational and NoSQL models of database types. Topics include relational modeling, NoSQL databases and their application, Structured Query Language (SQL), application development using databases, access controls, security principles, common vulnerabilities, mitigations and emerging trends. Students will prepare a small application using a commercial database management system.
+
+CIS 312
+Securing Access Control
+This course provides the student with the basic topics associated with controlling how resources are accessed in an information system. Topics include organizational access control models, security models, and hardware and software controls that can be used to support those models. Additionally, students will learn about access models, securing systems access with passwords, smart cards, and biometric devices to ensure data confidentiality, integrity and availability. This course also explores technologies like remote authentication and Public Key Infrastructure (PKI).
+
+CIS 121
+Microsoft Office 365
+This course introduces the use of Microsoft Office 365™. Students will learn file management, including saving to the Cloud and to local devices. Hands-on assignments will help students become proficient in Word, Excel and PowerPoint as well as other productivity applications. Additionally, students will gain experience with collaborative applications.
+
+
+CYBR 250
+Introduction to Cyber Threats, Technologies and Security
+This course introduces fundamental technologies used in information systems. Students will develop a foundation in cybersecurity by learning the fundamental concepts behind cybersecurity. In addition, students will learn cybersecurity principles used in the design of systems to protect information and assets against persistent and constantly evolving threats.
+
+
+CIS 245
+Introduction to Programming
+This course provides an introduction to problem solving and computer programming using the language Python. Students will analyze problems, design and implement solutions and assess the results. Topics include fundamental programming constructs such as variables, expressions, functions, control structures and lists. Emphasis is placed on numerical and data analysis for informed decision making.
+
+
+CIS 311
+Network Security
+This course introduces students to the goals, functional processes, tools, and techniques associated with network security. Services such as firewalls, intrusion detection mechanisms and Virtual Private Networks (VPNs) will be studied. Students will develop an understanding of telecommunications and networks security protocols used to prevent, detect, and correct potential vulnerabilities associated with both the outsider and insider threat.
