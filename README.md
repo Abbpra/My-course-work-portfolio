@@ -29,3 +29,7 @@ This course explores cybersecurity considerations of web applications, such as h
 CYBR 320
 Operational Security
 This course focuses on the knowledge required to operate a security program within an organization. Various components of secure operations, including policies, regulatory compliance, ethics, cryptography, human factors, and risk management are identified and applied to scenarios. Students will practice constructing a comprehensive security program that incorporates those secure operations components and concepts, including contingency plans and security awareness education
+
+CYBR 309
+Database Security
+The major focus of this course will be the relational and NoSQL models of database types. Topics include relational modeling, NoSQL databases and their application, Structured Query Language (SQL), application development using databases, access controls, security principles, common vulnerabilities, mitigations and emerging trends. Students will prepare a small application using a commercial database management system.
