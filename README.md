@@ -21,3 +21,7 @@ This course is intended to introduce students to the principles of risk assessme
 CYBR 433
 Cybercrime and Business
 This course presents a sampling of real-world security issues that confront modern business. In it, students learn practices used in the underworld of cybercrime in order to reduce their risks. One area of particular emphasis is compliance with laws and regulation in the areas of cyber systems and business policies. Another is analyzing business and economic risks associated with cyber systems. This course is suitable for students majoring in cybersecurity, Information Systems or Business, or anyone interested in understanding how, why, when, and where cybercrime may occur.
+
+CYBR 350
+Web Application Security
+This course explores cybersecurity considerations of web applications, such as how and why web applications are vulnerable, and how to mitigate those weaknesses through secure development and deployment practices using the Open Web Application Security Project (OWASP) Top 10 vulnerabilities as a focus. Students will exploit sample web application vulnerabilities and document the process. 
