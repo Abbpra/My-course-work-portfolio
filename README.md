@@ -25,3 +25,7 @@ This course presents a sampling of real-world security issues that confront mode
 CYBR 350
 Web Application Security
 This course explores cybersecurity considerations of web applications, such as how and why web applications are vulnerable, and how to mitigate those weaknesses through secure development and deployment practices using the Open Web Application Security Project (OWASP) Top 10 vulnerabilities as a focus. Students will exploit sample web application vulnerabilities and document the process. 
+
+CYBR 320
+Operational Security
+This course focuses on the knowledge required to operate a security program within an organization. Various components of secure operations, including policies, regulatory compliance, ethics, cryptography, human factors, and risk management are identified and applied to scenarios. Students will practice constructing a comprehensive security program that incorporates those secure operations components and concepts, including contingency plans and security awareness education
