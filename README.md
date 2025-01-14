@@ -9,3 +9,7 @@ This course provides a monitored structure for application of the skills and kno
 CYBR 340
 Operating Systems and Mobile Device Security
 This course explores secure base operating systems on server, desktop, virtual, and mobile platforms. Topics include the practical application of security tools, utilities, and configurations for protecting computer operating systems at both the user and corporate level. The course subject is also related to protecting stand-alone and virtualized servers, cloud computing security, and the protection of mobile platforms such as smart phones, tablets and handheld computers.
+
+CYBR 420
+Cyber Investigations and Forensics
+This course examines basic methods of investigation, information acquisition, and management of Internet and computer forensic cases. Topics include record-searching, note taking and report writing, and using scientific methodology in Cyber investigations. Coverage also includes basic tools and techniques for forensic analysis of computers, networks systems, and mobile devices.
